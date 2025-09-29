@@ -13,6 +13,12 @@ dist-ssr
 *.local
 .env
 
+# GitHub CLI installation files
+gh.zip
+bin/
+gh_*.zip
+gh_*_windows_amd64/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
